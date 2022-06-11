@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Chandrakar</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">< I am a passionate programmer with a thirst for knowledge. I am currently learning Full Stack Development from Newton School. I love solving problems and finding new ways to have fun while doing so. My hope for future is to become a capable and competent Software Engineer/Programmer. /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash5chandrakar&label=Profile%20views&color=0e75b6&style=flat" alt="yash5chandrakar" /> </p>
 
