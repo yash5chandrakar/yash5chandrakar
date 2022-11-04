@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash5chandrakar" alt="yash5chandrakar" /></a> </p>
 
-- 🌱 I’m currently learning **Java, HTML,CSS,Javascript**
+- 🌱 I’m currently learning **Java, HTML,CSS,Javascript, ReactJS, ExpressJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash5chandrakar](https://github.com/yash5chandrakar)
 
