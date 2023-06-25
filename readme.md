@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash5chandrakar" alt="yash5chandrakar" /></a> </p>
 
-- 🌱 I have learned **React JS,Node JS, Express JS, Mongo DB, Rest API etc.**
+- 🌱 I have learned **React JS, Node JS, Express JS, Mongo DB, Rest API etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash5chandrakar](https://github.com/yash5chandrakar)
 
-- 💬 Ask me about **HTML, CSS, Javascript,Node JS Leetcode Questions etc.**
+- 💬 Ask me about **HTML, CSS, Javascript, Node JS Leetcode Questions etc.**
 
 - 📫 How to reach me **yash5chandrakar@gmail.com**
 
